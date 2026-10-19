@@ -1,0 +1,501 @@
+Customer_ID,Gender,Age,City,Product_Category,Payment_Method,Recency_Days,Frequency_Orders,Monetary_Spend,Satisfaction_Score
+CUST-0001,Wanita,37,Yogyakarta,Kesehatan & Kecantikan,COD,194,2,662003,1.9
+CUST-0002,Pria,56,Medan,Elektronik,QRIS,16,34,9228096,4.7
+CUST-0003,Wanita,34,Surabaya,Kesehatan & Kecantikan,QRIS,25,3,2201165,3.4
+CUST-0004,Pria,20,Surabaya,Fashion & Apparel,COD,22,6,576898,3.5
+CUST-0005,Wanita,35,Bandung,Elektronik,Transfer Bank,16,5,1331460,3.7
+CUST-0006,Pria,52,Yogyakarta,Makanan & Minuman,Transfer Bank,39,14,4556182,4.2
+CUST-0007,Wanita,34,Jakarta,Fashion & Apparel,Transfer Bank,22,1,1411420,4.1
+CUST-0008,Wanita,56,Jakarta,Kesehatan & Kecantikan,E-Wallet,26,5,2431451,4.4
+CUST-0009,Pria,20,Bengkulu,Fashion & Apparel,COD,16,8,4525233,3.9
+CUST-0010,Pria,20,Surabaya,Elektronik,Transfer Bank,47,10,4114593,4.2
+CUST-0011,Wanita,44,Surabaya,Kebutuhan Rumah Tangga,QRIS,1,22,14216493,4.7
+CUST-0012,Wanita,31,Jakarta,Kebutuhan Rumah Tangga,Kartu Kredit,1,31,11563186,4.8
+CUST-0013,Pria,49,Bengkulu,Kesehatan & Kecantikan,Kartu Kredit,38,5,2593373,3.9
+CUST-0014,Wanita,52,Medan,Kesehatan & Kecantikan,Transfer Bank,4,33,8805585,4.7
+CUST-0015,Pria,57,Bengkulu,Kebutuhan Rumah Tangga,Kartu Kredit,185,4,1234176,1.9
+CUST-0016,Pria,21,Surabaya,Kesehatan & Kecantikan,Kartu Kredit,26,3,1250865,4.0
+CUST-0017,Wanita,26,Yogyakarta,Fashion & Apparel,E-Wallet,15,6,2146836,4.4
+CUST-0018,Wanita,41,Jakarta,Makanan & Minuman,QRIS,190,1,738972,1.8
+CUST-0019,Pria,32,Bengkulu,Makanan & Minuman,QRIS,18,34,13017366,5.0
+CUST-0020,Wanita,45,Surabaya,Fashion & Apparel,E-Wallet,15,30,13731219,4.9
+CUST-0021,Wanita,47,Medan,Makanan & Minuman,E-Wallet,37,17,6621509,4.2
+CUST-0022,Pria,57,Bandung,Elektronik,Kartu Kredit,32,6,1058924,3.4
+CUST-0023,Pria,57,Yogyakarta,Fashion & Apparel,COD,37,5,2972151,4.3
+CUST-0024,Pria,19,Bengkulu,Kesehatan & Kecantikan,Kartu Kredit,15,2,1451661,3.2
+CUST-0025,Pria,35,Bandung,Fashion & Apparel,E-Wallet,53,10,5721864,3.8
+CUST-0026,Pria,48,Surabaya,Kebutuhan Rumah Tangga,QRIS,10,6,534701,4.3
+CUST-0027,Wanita,31,Medan,Kesehatan & Kecantikan,Kartu Kredit,25,6,902732,3.6
+CUST-0028,Wanita,39,Bengkulu,Kebutuhan Rumah Tangga,COD,31,3,1852564,3.9
+CUST-0029,Wanita,37,Medan,Kesehatan & Kecantikan,Kartu Kredit,37,3,754444,4.0
+CUST-0030,Wanita,37,Bandung,Makanan & Minuman,Transfer Bank,4,23,9691422,5.0
+CUST-0031,Pria,43,Jakarta,Fashion & Apparel,Kartu Kredit,24,1,679352,3.6
+CUST-0032,Wanita,40,Bengkulu,Elektronik,E-Wallet,15,17,7084752,3.7
+CUST-0033,Wanita,49,Medan,Kesehatan & Kecantikan,QRIS,40,13,6351278,4.2
+CUST-0034,Wanita,35,Bengkulu,Kesehatan & Kecantikan,QRIS,30,9,5202575,3.8
+CUST-0035,Wanita,41,Jakarta,Kebutuhan Rumah Tangga,E-Wallet,26,3,2329553,4.3
+CUST-0036,Wanita,50,Jakarta,Makanan & Minuman,Transfer Bank,10,25,11741361,4.2
+CUST-0037,Wanita,28,Medan,Kebutuhan Rumah Tangga,E-Wallet,23,11,5490706,3.8
+CUST-0038,Wanita,28,Surabaya,Kebutuhan Rumah Tangga,Kartu Kredit,39,3,903119,3.6
+CUST-0039,Wanita,54,Surabaya,Makanan & Minuman,E-Wallet,230,1,730488,2.4
+CUST-0040,Wanita,26,Jakarta,Elektronik,E-Wallet,98,1,1530334,2.7
+CUST-0041,Pria,38,Bandung,Kebutuhan Rumah Tangga,Transfer Bank,31,2,1176022,4.3
+CUST-0042,Wanita,50,Bandung,Kebutuhan Rumah Tangga,Kartu Kredit,36,16,3876031,4.2
+CUST-0043,Wanita,32,Medan,Kesehatan & Kecantikan,COD,14,23,11443645,4.5
+CUST-0044,Pria,46,Yogyakarta,Makanan & Minuman,COD,169,2,708298,2.3
+CUST-0045,Wanita,42,Bengkulu,Fashion & Apparel,QRIS,56,13,4937878,4.1
+CUST-0046,Pria,33,Surabaya,Elektronik,E-Wallet,41,5,2715685,3.7
+CUST-0047,Wanita,40,Bengkulu,Elektronik,QRIS,16,10,3051226,4.0
+CUST-0048,Wanita,48,Bandung,Makanan & Minuman,Transfer Bank,19,16,6296050,4.3
+CUST-0049,Pria,22,Jakarta,Kesehatan & Kecantikan,COD,37,5,1040659,4.2
+CUST-0050,Wanita,31,Jakarta,Kesehatan & Kecantikan,E-Wallet,132,4,1493268,2.8
+CUST-0051,Pria,41,Jakarta,Makanan & Minuman,Transfer Bank,163,5,1976470,2.6
+CUST-0052,Wanita,26,Bandung,Kesehatan & Kecantikan,Transfer Bank,43,1,2680712,3.9
+CUST-0053,Pria,36,Jakarta,Elektronik,E-Wallet,55,12,6968222,3.9
+CUST-0054,Wanita,30,Surabaya,Elektronik,Transfer Bank,101,4,770551,2.1
+CUST-0055,Wanita,49,Jakarta,Fashion & Apparel,E-Wallet,204,3,866529,2.8
+CUST-0056,Pria,32,Bengkulu,Makanan & Minuman,E-Wallet,40,3,2359582,3.3
+CUST-0057,Wanita,52,Surabaya,Kebutuhan Rumah Tangga,Kartu Kredit,15,26,10948678,4.8
+CUST-0058,Wanita,36,Jakarta,Kebutuhan Rumah Tangga,QRIS,35,2,1267950,3.5
+CUST-0059,Pria,52,Jakarta,Fashion & Apparel,Transfer Bank,35,3,2450013,4.2
+CUST-0060,Pria,29,Surabaya,Fashion & Apparel,Transfer Bank,2,24,13633204,4.9
+CUST-0061,Wanita,30,Jakarta,Kesehatan & Kecantikan,Kartu Kredit,19,19,11478400,4.2
+CUST-0062,Pria,33,Bengkulu,Fashion & Apparel,Kartu Kredit,43,6,2790435,3.4
+CUST-0063,Pria,49,Jakarta,Fashion & Apparel,Kartu Kredit,5,25,11232839,4.6
+CUST-0064,Pria,47,Yogyakarta,Kebutuhan Rumah Tangga,COD,4,34,11080893,4.9
+CUST-0065,Wanita,44,Bandung,Kesehatan & Kecantikan,COD,50,12,6526737,4.0
+CUST-0066,Pria,36,Surabaya,Fashion & Apparel,COD,37,5,1310694,4.2
+CUST-0067,Wanita,50,Bandung,Fashion & Apparel,E-Wallet,1,34,10938550,4.6
+CUST-0068,Pria,40,Bengkulu,Kesehatan & Kecantikan,Transfer Bank,25,13,4270896,4.5
+CUST-0069,Wanita,56,Jakarta,Makanan & Minuman,QRIS,185,5,1160597,1.6
+CUST-0070,Wanita,35,Surabaya,Kesehatan & Kecantikan,E-Wallet,24,4,1363561,4.0
+CUST-0071,Pria,41,Bengkulu,Kebutuhan Rumah Tangga,Transfer Bank,9,26,13429720,5.0
+CUST-0072,Wanita,42,Jakarta,Makanan & Minuman,Transfer Bank,9,18,13079079,4.5
+CUST-0073,Pria,26,Jakarta,Elektronik,Kartu Kredit,1,30,13950224,4.8
+CUST-0074,Pria,24,Jakarta,Kesehatan & Kecantikan,Kartu Kredit,38,4,622744,4.1
+CUST-0075,Pria,23,Yogyakarta,Kebutuhan Rumah Tangga,E-Wallet,46,10,6897611,3.7
+CUST-0076,Wanita,47,Bengkulu,Makanan & Minuman,Kartu Kredit,16,15,5653093,4.1
+CUST-0077,Pria,46,Bandung,Kesehatan & Kecantikan,Transfer Bank,119,4,508722,3.1
+CUST-0078,Wanita,29,Bengkulu,Fashion & Apparel,Kartu Kredit,124,4,777007,2.3
+CUST-0079,Wanita,19,Yogyakarta,Kesehatan & Kecantikan,COD,44,2,1741835,4.3
+CUST-0080,Pria,37,Bengkulu,Elektronik,Kartu Kredit,158,1,1033066,3.1
+CUST-0081,Wanita,27,Jakarta,Kesehatan & Kecantikan,Transfer Bank,35,2,2278627,4.4
+CUST-0082,Wanita,45,Surabaya,Makanan & Minuman,E-Wallet,9,23,11596951,4.6
+CUST-0083,Pria,52,Surabaya,Makanan & Minuman,QRIS,151,3,850530,2.8
+CUST-0084,Wanita,22,Jakarta,Kesehatan & Kecantikan,Kartu Kredit,163,3,926787,1.6
+CUST-0085,Wanita,54,Jakarta,Makanan & Minuman,Transfer Bank,135,3,821926,2.0
+CUST-0086,Pria,36,Jakarta,Fashion & Apparel,QRIS,198,2,1812833,2.9
+CUST-0087,Wanita,33,Jakarta,Kesehatan & Kecantikan,QRIS,58,12,6534550,4.0
+CUST-0088,Pria,31,Bengkulu,Fashion & Apparel,COD,44,4,2469510,3.4
+CUST-0089,Pria,37,Jakarta,Fashion & Apparel,QRIS,158,3,1460209,2.1
+CUST-0090,Pria,24,Jakarta,Kebutuhan Rumah Tangga,Transfer Bank,8,33,12802556,4.3
+CUST-0091,Pria,30,Jakarta,Kesehatan & Kecantikan,Transfer Bank,175,3,1327833,2.2
+CUST-0092,Wanita,55,Surabaya,Makanan & Minuman,Kartu Kredit,234,3,1587803,2.8
+CUST-0093,Wanita,35,Yogyakarta,Fashion & Apparel,Kartu Kredit,55,13,5582569,4.2
+CUST-0094,Pria,41,Bandung,Kebutuhan Rumah Tangga,Kartu Kredit,7,31,8878246,4.3
+CUST-0095,Pria,44,Bengkulu,Kesehatan & Kecantikan,QRIS,13,29,14729039,4.5
+CUST-0096,Wanita,47,Bengkulu,Kesehatan & Kecantikan,QRIS,22,10,4564718,3.8
+CUST-0097,Wanita,51,Yogyakarta,Elektronik,COD,222,3,799148,2.6
+CUST-0098,Wanita,45,Jakarta,Elektronik,Kartu Kredit,36,14,3087955,4.3
+CUST-0099,Wanita,43,Bengkulu,Fashion & Apparel,E-Wallet,42,9,6751198,4.2
+CUST-0100,Pria,28,Bandung,Elektronik,COD,217,5,1456308,1.9
+CUST-0101,Wanita,41,Bandung,Fashion & Apparel,E-Wallet,17,10,3559723,4.0
+CUST-0102,Pria,39,Bandung,Makanan & Minuman,QRIS,51,11,6297291,4.5
+CUST-0103,Pria,39,Jakarta,Fashion & Apparel,COD,7,20,13604941,4.8
+CUST-0104,Wanita,31,Bengkulu,Elektronik,COD,35,1,1105409,3.6
+CUST-0105,Pria,55,Yogyakarta,Makanan & Minuman,Transfer Bank,38,14,5420564,4.0
+CUST-0106,Wanita,51,Jakarta,Elektronik,QRIS,3,32,10102967,4.3
+CUST-0107,Pria,42,Surabaya,Fashion & Apparel,QRIS,20,8,3363476,4.0
+CUST-0108,Pria,29,Surabaya,Kebutuhan Rumah Tangga,COD,34,13,7381137,3.9
+CUST-0109,Pria,35,Bandung,Kesehatan & Kecantikan,QRIS,12,18,12156356,4.8
+CUST-0110,Pria,22,Jakarta,Elektronik,COD,165,1,1528523,2.4
+CUST-0111,Wanita,43,Jakarta,Fashion & Apparel,Transfer Bank,3,30,10852252,4.8
+CUST-0112,Wanita,48,Bandung,Makanan & Minuman,COD,229,2,955552,3.1
+CUST-0113,Pria,27,Medan,Elektronik,QRIS,18,23,11456602,4.7
+CUST-0114,Wanita,39,Yogyakarta,Elektronik,QRIS,21,1,812250,3.4
+CUST-0115,Wanita,38,Bengkulu,Kesehatan & Kecantikan,COD,39,3,1468452,4.4
+CUST-0116,Wanita,37,Bengkulu,Fashion & Apparel,COD,17,1,2260574,3.9
+CUST-0117,Pria,37,Yogyakarta,Kebutuhan Rumah Tangga,COD,26,15,4480035,4.2
+CUST-0118,Wanita,30,Surabaya,Makanan & Minuman,Kartu Kredit,17,22,14824480,4.5
+CUST-0119,Pria,55,Medan,Fashion & Apparel,QRIS,30,15,6563706,3.9
+CUST-0120,Pria,35,Bengkulu,Makanan & Minuman,QRIS,189,4,1632439,2.5
+CUST-0121,Wanita,55,Bandung,Elektronik,Kartu Kredit,27,6,1058221,4.1
+CUST-0122,Wanita,57,Surabaya,Kesehatan & Kecantikan,COD,41,1,2629885,3.8
+CUST-0123,Wanita,46,Surabaya,Kesehatan & Kecantikan,Transfer Bank,25,8,7261946,4.0
+CUST-0124,Pria,53,Jakarta,Kebutuhan Rumah Tangga,COD,3,26,14852207,4.8
+CUST-0125,Wanita,36,Bengkulu,Kesehatan & Kecantikan,COD,12,32,9285910,4.7
+CUST-0126,Wanita,32,Bandung,Elektronik,Kartu Kredit,13,3,959297,4.0
+CUST-0127,Wanita,53,Jakarta,Kebutuhan Rumah Tangga,QRIS,39,4,788316,3.6
+CUST-0128,Pria,25,Jakarta,Fashion & Apparel,COD,37,16,6190914,4.3
+CUST-0129,Wanita,31,Yogyakarta,Kesehatan & Kecantikan,QRIS,15,25,14734482,4.5
+CUST-0130,Pria,36,Jakarta,Kebutuhan Rumah Tangga,E-Wallet,13,6,1735202,4.0
+CUST-0131,Pria,55,Medan,Elektronik,QRIS,34,15,6026768,4.6
+CUST-0132,Wanita,31,Bengkulu,Makanan & Minuman,Transfer Bank,40,12,3929168,4.2
+CUST-0133,Pria,54,Surabaya,Makanan & Minuman,Transfer Bank,23,17,7422375,4.0
+CUST-0134,Wanita,49,Yogyakarta,Elektronik,COD,39,4,2921212,3.9
+CUST-0135,Pria,20,Bengkulu,Elektronik,QRIS,11,6,2294029,3.8
+CUST-0136,Pria,34,Bengkulu,Makanan & Minuman,COD,55,15,4611754,3.7
+CUST-0137,Pria,27,Jakarta,Kebutuhan Rumah Tangga,Kartu Kredit,44,13,7108880,4.6
+CUST-0138,Wanita,27,Bengkulu,Makanan & Minuman,Transfer Bank,33,9,3572212,4.0
+CUST-0139,Wanita,56,Surabaya,Elektronik,COD,17,20,10194287,4.8
+CUST-0140,Wanita,29,Yogyakarta,Kesehatan & Kecantikan,Kartu Kredit,33,3,2259555,4.4
+CUST-0141,Wanita,40,Jakarta,Fashion & Apparel,COD,47,12,4226476,4.3
+CUST-0142,Wanita,51,Jakarta,Kesehatan & Kecantikan,QRIS,18,26,14011634,4.9
+CUST-0143,Wanita,54,Jakarta,Kesehatan & Kecantikan,QRIS,235,3,851763,2.3
+CUST-0144,Wanita,41,Surabaya,Elektronik,QRIS,182,5,292534,1.5
+CUST-0145,Wanita,52,Bengkulu,Makanan & Minuman,QRIS,46,14,4566847,4.4
+CUST-0146,Pria,27,Bandung,Kebutuhan Rumah Tangga,E-Wallet,28,6,2508954,4.2
+CUST-0147,Wanita,42,Bandung,Kesehatan & Kecantikan,Kartu Kredit,2,33,10980130,4.9
+CUST-0148,Wanita,26,Bandung,Makanan & Minuman,Kartu Kredit,146,2,1581673,1.7
+CUST-0149,Wanita,25,Bengkulu,Kebutuhan Rumah Tangga,QRIS,8,20,11729215,4.7
+CUST-0150,Wanita,54,Surabaya,Kesehatan & Kecantikan,E-Wallet,30,2,1632658,3.5
+CUST-0151,Pria,36,Bengkulu,Kebutuhan Rumah Tangga,QRIS,23,6,1412727,4.3
+CUST-0152,Wanita,21,Bengkulu,Makanan & Minuman,E-Wallet,50,17,5134793,4.4
+CUST-0153,Pria,46,Medan,Fashion & Apparel,QRIS,1,22,9780827,4.3
+CUST-0154,Pria,24,Surabaya,Makanan & Minuman,Transfer Bank,34,5,931413,3.7
+CUST-0155,Pria,39,Bengkulu,Elektronik,Transfer Bank,31,6,1498974,4.3
+CUST-0156,Pria,46,Bengkulu,Kebutuhan Rumah Tangga,COD,28,15,6182993,3.9
+CUST-0157,Pria,19,Bengkulu,Fashion & Apparel,QRIS,14,30,7999876,4.7
+CUST-0158,Pria,54,Jakarta,Kebutuhan Rumah Tangga,Kartu Kredit,179,4,745518,2.8
+CUST-0159,Pria,39,Bengkulu,Kebutuhan Rumah Tangga,COD,26,2,666472,3.4
+CUST-0160,Pria,53,Bengkulu,Kesehatan & Kecantikan,Transfer Bank,29,10,4366853,4.4
+CUST-0161,Pria,31,Jakarta,Elektronik,QRIS,41,5,2839767,3.4
+CUST-0162,Wanita,28,Surabaya,Kebutuhan Rumah Tangga,COD,47,9,4286585,3.9
+CUST-0163,Pria,28,Bandung,Makanan & Minuman,QRIS,47,10,5003679,4.4
+CUST-0164,Wanita,31,Surabaya,Makanan & Minuman,Transfer Bank,231,3,1729359,3.1
+CUST-0165,Wanita,55,Bengkulu,Kesehatan & Kecantikan,COD,51,12,3116739,4.6
+CUST-0166,Wanita,56,Yogyakarta,Elektronik,Transfer Bank,17,8,4012117,4.4
+CUST-0167,Wanita,42,Medan,Elektronik,E-Wallet,43,13,5035848,4.4
+CUST-0168,Wanita,20,Medan,Makanan & Minuman,Transfer Bank,25,2,827304,3.5
+CUST-0169,Wanita,40,Medan,Fashion & Apparel,QRIS,211,2,1413950,2.9
+CUST-0170,Pria,35,Yogyakarta,Kesehatan & Kecantikan,Kartu Kredit,12,29,12880597,4.6
+CUST-0171,Wanita,54,Bandung,Kesehatan & Kecantikan,Transfer Bank,194,1,1624572,2.0
+CUST-0172,Pria,32,Bengkulu,Makanan & Minuman,Kartu Kredit,42,1,1026338,3.9
+CUST-0173,Wanita,28,Bandung,Makanan & Minuman,E-Wallet,50,11,3415008,4.0
+CUST-0174,Wanita,53,Surabaya,Fashion & Apparel,COD,43,15,7131479,4.1
+CUST-0175,Pria,43,Surabaya,Fashion & Apparel,COD,15,33,11011049,5.0
+CUST-0176,Pria,21,Bandung,Elektronik,Kartu Kredit,30,1,2188472,3.9
+CUST-0177,Wanita,56,Bengkulu,Kesehatan & Kecantikan,COD,164,1,926555,1.7
+CUST-0178,Pria,35,Jakarta,Kesehatan & Kecantikan,Transfer Bank,34,16,6395049,4.3
+CUST-0179,Pria,30,Yogyakarta,Makanan & Minuman,Kartu Kredit,15,4,645271,3.4
+CUST-0180,Wanita,42,Bandung,Elektronik,QRIS,10,33,10159440,4.3
+CUST-0181,Wanita,47,Bandung,Kesehatan & Kecantikan,Transfer Bank,8,27,10403540,4.9
+CUST-0182,Pria,43,Jakarta,Elektronik,Transfer Bank,14,1,2707169,3.8
+CUST-0183,Pria,54,Jakarta,Elektronik,Transfer Bank,229,2,573390,2.6
+CUST-0184,Wanita,44,Medan,Makanan & Minuman,QRIS,203,4,1487580,1.9
+CUST-0185,Pria,56,Surabaya,Elektronik,E-Wallet,126,4,1426808,2.1
+CUST-0186,Wanita,19,Surabaya,Fashion & Apparel,COD,17,17,5342035,4.1
+CUST-0187,Wanita,38,Jakarta,Fashion & Apparel,Kartu Kredit,2,29,14242738,4.6
+CUST-0188,Wanita,46,Bandung,Kebutuhan Rumah Tangga,E-Wallet,20,17,3322918,4.2
+CUST-0189,Pria,34,Bengkulu,Makanan & Minuman,Kartu Kredit,19,20,12898869,4.9
+CUST-0190,Pria,35,Surabaya,Kebutuhan Rumah Tangga,COD,33,4,1091652,3.3
+CUST-0191,Pria,46,Jakarta,Fashion & Apparel,QRIS,20,11,3378165,4.2
+CUST-0192,Wanita,30,Jakarta,Kebutuhan Rumah Tangga,Transfer Bank,48,17,5118324,3.7
+CUST-0193,Wanita,45,Bandung,Makanan & Minuman,Transfer Bank,11,34,11839235,4.8
+CUST-0194,Wanita,48,Yogyakarta,Makanan & Minuman,QRIS,17,11,3464071,4.6
+CUST-0195,Pria,52,Bengkulu,Elektronik,E-Wallet,36,4,2341648,3.6
+CUST-0196,Wanita,55,Medan,Kesehatan & Kecantikan,E-Wallet,49,10,5492118,4.3
+CUST-0197,Wanita,24,Jakarta,Elektronik,Kartu Kredit,17,3,1795160,4.0
+CUST-0198,Pria,25,Jakarta,Makanan & Minuman,QRIS,236,4,513579,2.6
+CUST-0199,Wanita,50,Bengkulu,Fashion & Apparel,E-Wallet,9,30,8627199,4.8
+CUST-0200,Pria,50,Jakarta,Fashion & Apparel,QRIS,55,17,4191902,3.8
+CUST-0201,Wanita,43,Bandung,Elektronik,COD,9,23,12601729,4.3
+CUST-0202,Pria,51,Bengkulu,Makanan & Minuman,Transfer Bank,165,3,734090,2.4
+CUST-0203,Wanita,25,Jakarta,Fashion & Apparel,Transfer Bank,33,15,4631993,4.5
+CUST-0204,Pria,30,Yogyakarta,Makanan & Minuman,Transfer Bank,189,5,1442929,2.4
+CUST-0205,Wanita,34,Bengkulu,Fashion & Apparel,QRIS,38,9,6489866,4.1
+CUST-0206,Wanita,34,Surabaya,Makanan & Minuman,QRIS,5,29,9526580,4.6
+CUST-0207,Wanita,54,Jakarta,Kebutuhan Rumah Tangga,Kartu Kredit,184,3,959662,1.5
+CUST-0208,Wanita,31,Surabaya,Makanan & Minuman,Transfer Bank,34,10,3645188,4.3
+CUST-0209,Wanita,25,Jakarta,Makanan & Minuman,Kartu Kredit,2,30,13286265,4.6
+CUST-0210,Pria,54,Bengkulu,Elektronik,Transfer Bank,18,28,11592097,4.4
+CUST-0211,Wanita,27,Bengkulu,Kebutuhan Rumah Tangga,Kartu Kredit,4,25,9099601,4.7
+CUST-0212,Pria,50,Bengkulu,Kesehatan & Kecantikan,Kartu Kredit,7,19,10046741,4.5
+CUST-0213,Pria,29,Bengkulu,Elektronik,COD,33,6,2872280,4.4
+CUST-0214,Pria,26,Surabaya,Kesehatan & Kecantikan,Kartu Kredit,34,6,1049239,3.9
+CUST-0215,Wanita,51,Medan,Fashion & Apparel,QRIS,42,9,5475539,3.8
+CUST-0216,Wanita,41,Medan,Kesehatan & Kecantikan,Kartu Kredit,113,2,740042,1.9
+CUST-0217,Pria,43,Surabaya,Makanan & Minuman,Transfer Bank,14,3,1635564,4.3
+CUST-0218,Pria,26,Bengkulu,Kesehatan & Kecantikan,Kartu Kredit,11,3,1770464,3.7
+CUST-0219,Wanita,40,Jakarta,Elektronik,E-Wallet,13,21,9464956,4.5
+CUST-0220,Wanita,22,Jakarta,Elektronik,Transfer Bank,219,4,1376825,3.2
+CUST-0221,Wanita,21,Bengkulu,Kesehatan & Kecantikan,E-Wallet,154,5,1352523,3.1
+CUST-0222,Pria,47,Bandung,Elektronik,Transfer Bank,4,32,9166471,4.4
+CUST-0223,Wanita,47,Bandung,Elektronik,QRIS,101,4,1367850,2.5
+CUST-0224,Wanita,52,Jakarta,Kesehatan & Kecantikan,QRIS,31,4,1309942,3.7
+CUST-0225,Pria,52,Jakarta,Kebutuhan Rumah Tangga,QRIS,38,4,1370123,4.3
+CUST-0226,Wanita,46,Medan,Kebutuhan Rumah Tangga,E-Wallet,32,3,933816,4.1
+CUST-0227,Wanita,31,Surabaya,Fashion & Apparel,COD,3,22,7972327,4.3
+CUST-0228,Pria,33,Jakarta,Elektronik,Transfer Bank,18,6,1215080,3.4
+CUST-0229,Pria,41,Yogyakarta,Kesehatan & Kecantikan,QRIS,8,22,8734816,4.6
+CUST-0230,Wanita,44,Yogyakarta,Elektronik,Transfer Bank,21,10,5434206,4.5
+CUST-0231,Wanita,22,Jakarta,Makanan & Minuman,E-Wallet,23,2,2114737,3.8
+CUST-0232,Wanita,44,Jakarta,Elektronik,COD,5,27,8478039,4.9
+CUST-0233,Wanita,27,Bandung,Elektronik,E-Wallet,42,13,6816446,3.9
+CUST-0234,Pria,23,Yogyakarta,Kebutuhan Rumah Tangga,Transfer Bank,38,17,6337920,4.0
+CUST-0235,Wanita,50,Medan,Kesehatan & Kecantikan,COD,49,9,3664180,4.2
+CUST-0236,Wanita,38,Bengkulu,Elektronik,COD,188,5,1804623,2.5
+CUST-0237,Wanita,29,Jakarta,Kebutuhan Rumah Tangga,E-Wallet,25,8,6006316,3.6
+CUST-0238,Pria,33,Bandung,Fashion & Apparel,QRIS,10,1,991036,3.5
+CUST-0239,Wanita,50,Bandung,Kebutuhan Rumah Tangga,Transfer Bank,13,30,12711593,4.9
+CUST-0240,Pria,46,Bengkulu,Kebutuhan Rumah Tangga,Kartu Kredit,42,15,3090093,4.4
+CUST-0241,Wanita,40,Medan,Kebutuhan Rumah Tangga,Kartu Kredit,46,13,6443609,4.2
+CUST-0242,Pria,35,Surabaya,Elektronik,E-Wallet,14,31,8108746,4.7
+CUST-0243,Pria,44,Medan,Elektronik,Transfer Bank,18,2,2808912,3.9
+CUST-0244,Wanita,25,Medan,Fashion & Apparel,Transfer Bank,38,15,6498472,4.0
+CUST-0245,Wanita,44,Surabaya,Makanan & Minuman,E-Wallet,101,3,842632,2.9
+CUST-0246,Wanita,43,Jakarta,Makanan & Minuman,Transfer Bank,27,12,3401921,3.6
+CUST-0247,Wanita,28,Bandung,Makanan & Minuman,QRIS,12,30,13363899,5.0
+CUST-0248,Wanita,37,Bengkulu,Fashion & Apparel,E-Wallet,44,5,2563499,3.9
+CUST-0249,Wanita,29,Surabaya,Makanan & Minuman,QRIS,1,31,10502819,4.7
+CUST-0250,Wanita,31,Bengkulu,Makanan & Minuman,Transfer Bank,43,6,2743541,4.0
+CUST-0251,Pria,26,Surabaya,Kebutuhan Rumah Tangga,E-Wallet,9,18,14522336,4.8
+CUST-0252,Wanita,22,Bengkulu,Elektronik,Transfer Bank,23,15,7062442,4.3
+CUST-0253,Pria,49,Bengkulu,Elektronik,E-Wallet,15,24,9912149,4.9
+CUST-0254,Wanita,46,Bengkulu,Kebutuhan Rumah Tangga,Transfer Bank,17,23,8070451,4.9
+CUST-0255,Pria,29,Bengkulu,Kebutuhan Rumah Tangga,QRIS,7,24,14046182,4.8
+CUST-0256,Pria,19,Surabaya,Kebutuhan Rumah Tangga,QRIS,99,4,261303,2.1
+CUST-0257,Wanita,56,Surabaya,Elektronik,Transfer Bank,11,25,11608997,4.5
+CUST-0258,Pria,42,Bandung,Makanan & Minuman,E-Wallet,58,13,4500844,3.6
+CUST-0259,Wanita,49,Bengkulu,Kebutuhan Rumah Tangga,Kartu Kredit,18,16,3691757,3.8
+CUST-0260,Wanita,44,Bengkulu,Fashion & Apparel,QRIS,17,11,6303457,4.0
+CUST-0261,Pria,23,Bengkulu,Kebutuhan Rumah Tangga,QRIS,14,21,13357565,4.2
+CUST-0262,Wanita,38,Bengkulu,Kesehatan & Kecantikan,Kartu Kredit,7,30,8270044,4.9
+CUST-0263,Wanita,29,Medan,Kebutuhan Rumah Tangga,Transfer Bank,1,23,10685714,4.2
+CUST-0264,Pria,51,Bengkulu,Elektronik,E-Wallet,2,32,8088365,4.6
+CUST-0265,Pria,56,Jakarta,Kebutuhan Rumah Tangga,Transfer Bank,44,2,1520154,3.4
+CUST-0266,Pria,45,Bengkulu,Kesehatan & Kecantikan,COD,10,4,2221610,3.8
+CUST-0267,Wanita,52,Bengkulu,Fashion & Apparel,QRIS,12,2,2707148,4.2
+CUST-0268,Pria,33,Bandung,Makanan & Minuman,COD,15,27,10355059,4.8
+CUST-0269,Wanita,50,Bandung,Kebutuhan Rumah Tangga,QRIS,26,16,7374857,3.7
+CUST-0270,Pria,39,Bengkulu,Kesehatan & Kecantikan,QRIS,27,11,6173584,4.1
+CUST-0271,Pria,23,Bengkulu,Kesehatan & Kecantikan,COD,230,2,1373129,2.2
+CUST-0272,Pria,24,Jakarta,Fashion & Apparel,COD,42,5,897710,4.0
+CUST-0273,Pria,56,Bengkulu,Elektronik,Transfer Bank,28,5,1539504,4.1
+CUST-0274,Wanita,40,Bengkulu,Kebutuhan Rumah Tangga,COD,39,10,4324070,4.1
+CUST-0275,Pria,36,Yogyakarta,Kesehatan & Kecantikan,Transfer Bank,19,8,5977590,3.7
+CUST-0276,Pria,32,Bandung,Fashion & Apparel,Transfer Bank,212,3,847897,2.3
+CUST-0277,Wanita,28,Bandung,Makanan & Minuman,Transfer Bank,59,9,7402294,3.7
+CUST-0278,Pria,31,Jakarta,Kesehatan & Kecantikan,QRIS,46,16,6802429,4.3
+CUST-0279,Wanita,49,Jakarta,Fashion & Apparel,QRIS,43,14,4492252,4.5
+CUST-0280,Pria,48,Bandung,Elektronik,COD,39,4,1196358,3.6
+CUST-0281,Pria,21,Surabaya,Elektronik,QRIS,40,5,1056701,4.3
+CUST-0282,Pria,48,Surabaya,Kesehatan & Kecantikan,COD,12,21,11502640,4.3
+CUST-0283,Wanita,24,Bengkulu,Kesehatan & Kecantikan,QRIS,38,1,2225690,3.8
+CUST-0284,Pria,47,Bandung,Kebutuhan Rumah Tangga,E-Wallet,18,14,6433382,4.4
+CUST-0285,Wanita,26,Jakarta,Fashion & Apparel,E-Wallet,7,30,7764223,4.4
+CUST-0286,Pria,51,Medan,Kesehatan & Kecantikan,COD,31,5,1536580,4.4
+CUST-0287,Wanita,35,Bandung,Kebutuhan Rumah Tangga,QRIS,25,13,5704999,4.3
+CUST-0288,Wanita,29,Bandung,Kebutuhan Rumah Tangga,QRIS,18,30,10378604,4.4
+CUST-0289,Pria,31,Bengkulu,Kesehatan & Kecantikan,Transfer Bank,7,18,12403058,4.7
+CUST-0290,Wanita,29,Bandung,Elektronik,Kartu Kredit,141,1,1249701,2.9
+CUST-0291,Pria,49,Bengkulu,Fashion & Apparel,COD,16,10,3716756,3.7
+CUST-0292,Pria,46,Jakarta,Fashion & Apparel,Kartu Kredit,42,1,750195,3.9
+CUST-0293,Pria,24,Bengkulu,Elektronik,Kartu Kredit,51,15,7085412,3.7
+CUST-0294,Pria,34,Surabaya,Kesehatan & Kecantikan,COD,158,3,519458,2.0
+CUST-0295,Wanita,22,Bengkulu,Fashion & Apparel,QRIS,21,6,634055,3.6
+CUST-0296,Wanita,53,Jakarta,Kesehatan & Kecantikan,COD,15,34,14906390,4.6
+CUST-0297,Wanita,44,Medan,Kesehatan & Kecantikan,Kartu Kredit,147,3,692061,1.7
+CUST-0298,Wanita,30,Bengkulu,Kebutuhan Rumah Tangga,QRIS,53,8,3886040,4.0
+CUST-0299,Wanita,29,Bandung,Elektronik,E-Wallet,42,4,2485209,4.0
+CUST-0300,Pria,55,Jakarta,Kesehatan & Kecantikan,COD,125,3,1373994,1.7
+CUST-0301,Pria,43,Bengkulu,Makanan & Minuman,COD,35,14,7081082,3.7
+CUST-0302,Wanita,36,Surabaya,Elektronik,QRIS,106,2,382079,3.0
+CUST-0303,Pria,37,Bengkulu,Fashion & Apparel,E-Wallet,3,33,13534069,4.9
+CUST-0304,Pria,41,Jakarta,Kebutuhan Rumah Tangga,E-Wallet,45,14,5524388,3.6
+CUST-0305,Pria,56,Bandung,Fashion & Apparel,QRIS,30,4,1692324,3.5
+CUST-0306,Pria,36,Bandung,Fashion & Apparel,Transfer Bank,42,6,1511727,3.9
+CUST-0307,Wanita,44,Surabaya,Elektronik,COD,224,2,376209,2.6
+CUST-0308,Wanita,24,Jakarta,Fashion & Apparel,COD,90,5,1384807,2.6
+CUST-0309,Wanita,22,Bengkulu,Kesehatan & Kecantikan,Kartu Kredit,47,11,3281570,3.7
+CUST-0310,Wanita,47,Surabaya,Fashion & Apparel,QRIS,39,15,5383366,4.5
+CUST-0311,Pria,52,Bandung,Kebutuhan Rumah Tangga,Kartu Kredit,58,11,6266402,4.4
+CUST-0312,Pria,35,Medan,Kebutuhan Rumah Tangga,Kartu Kredit,123,5,1548266,2.3
+CUST-0313,Wanita,34,Medan,Makanan & Minuman,E-Wallet,206,4,388563,1.9
+CUST-0314,Wanita,20,Medan,Kebutuhan Rumah Tangga,COD,233,2,1737331,1.8
+CUST-0315,Pria,52,Jakarta,Fashion & Apparel,Kartu Kredit,49,11,4524102,4.4
+CUST-0316,Wanita,26,Jakarta,Kebutuhan Rumah Tangga,E-Wallet,202,1,452053,1.8
+CUST-0317,Wanita,31,Surabaya,Elektronik,QRIS,17,19,14069632,4.7
+CUST-0318,Pria,26,Jakarta,Kebutuhan Rumah Tangga,Kartu Kredit,54,14,4226952,3.8
+CUST-0319,Wanita,48,Bengkulu,Kesehatan & Kecantikan,COD,53,11,3188456,4.0
+CUST-0320,Wanita,50,Medan,Elektronik,Kartu Kredit,38,5,1642953,4.0
+CUST-0321,Wanita,54,Medan,Makanan & Minuman,QRIS,8,19,12346769,4.2
+CUST-0322,Pria,48,Jakarta,Kesehatan & Kecantikan,Kartu Kredit,28,2,623618,3.2
+CUST-0323,Pria,19,Bengkulu,Fashion & Apparel,COD,4,31,12121056,4.3
+CUST-0324,Wanita,57,Jakarta,Fashion & Apparel,E-Wallet,39,5,628322,4.0
+CUST-0325,Wanita,35,Medan,Fashion & Apparel,COD,20,9,5085259,4.0
+CUST-0326,Wanita,38,Yogyakarta,Kesehatan & Kecantikan,E-Wallet,42,10,5994200,4.0
+CUST-0327,Pria,42,Bengkulu,Kesehatan & Kecantikan,Transfer Bank,54,9,5938496,3.7
+CUST-0328,Pria,40,Bengkulu,Kesehatan & Kecantikan,COD,7,30,9462165,4.6
+CUST-0329,Wanita,47,Medan,Elektronik,COD,15,30,14933533,4.3
+CUST-0330,Pria,40,Jakarta,Elektronik,QRIS,229,1,676346,2.1
+CUST-0331,Wanita,27,Bandung,Fashion & Apparel,Kartu Kredit,36,1,1285332,3.5
+CUST-0332,Wanita,55,Yogyakarta,Kebutuhan Rumah Tangga,E-Wallet,42,3,802186,3.9
+CUST-0333,Wanita,28,Bengkulu,Fashion & Apparel,E-Wallet,98,4,1123698,1.9
+CUST-0334,Wanita,54,Bandung,Makanan & Minuman,QRIS,32,16,3204615,4.2
+CUST-0335,Wanita,55,Bengkulu,Elektronik,QRIS,6,18,12518994,4.2
+CUST-0336,Wanita,46,Jakarta,Kesehatan & Kecantikan,Kartu Kredit,19,26,8538896,4.4
+CUST-0337,Wanita,46,Medan,Elektronik,Kartu Kredit,33,14,5768362,3.6
+CUST-0338,Pria,39,Jakarta,Kesehatan & Kecantikan,COD,58,9,5489569,3.8
+CUST-0339,Wanita,42,Yogyakarta,Makanan & Minuman,Transfer Bank,56,17,6876274,4.6
+CUST-0340,Pria,20,Bandung,Makanan & Minuman,Kartu Kredit,32,3,1293719,3.8
+CUST-0341,Pria,26,Jakarta,Elektronik,QRIS,35,3,2605058,3.4
+CUST-0342,Wanita,45,Bengkulu,Kesehatan & Kecantikan,Kartu Kredit,35,5,2232767,4.2
+CUST-0343,Wanita,40,Jakarta,Makanan & Minuman,E-Wallet,15,8,4732465,4.1
+CUST-0344,Wanita,55,Jakarta,Fashion & Apparel,Transfer Bank,118,5,1872572,2.2
+CUST-0345,Wanita,45,Bengkulu,Fashion & Apparel,COD,14,6,2352610,4.0
+CUST-0346,Wanita,47,Jakarta,Kesehatan & Kecantikan,E-Wallet,17,15,5859244,3.6
+CUST-0347,Pria,21,Jakarta,Elektronik,E-Wallet,5,18,12011219,4.6
+CUST-0348,Pria,31,Surabaya,Makanan & Minuman,Transfer Bank,128,3,1675402,3.0
+CUST-0349,Wanita,28,Surabaya,Elektronik,COD,14,1,1526553,4.2
+CUST-0350,Pria,54,Surabaya,Fashion & Apparel,QRIS,25,5,2663414,3.9
+CUST-0351,Wanita,27,Bengkulu,Makanan & Minuman,COD,29,1,2835658,4.5
+CUST-0352,Pria,45,Bengkulu,Elektronik,Kartu Kredit,11,22,12648956,4.6
+CUST-0353,Pria,52,Surabaya,Kebutuhan Rumah Tangga,E-Wallet,188,4,1227965,1.6
+CUST-0354,Pria,19,Jakarta,Kesehatan & Kecantikan,Kartu Kredit,10,34,14378974,4.3
+CUST-0355,Wanita,50,Bengkulu,Kesehatan & Kecantikan,QRIS,13,18,13053794,4.7
+CUST-0356,Wanita,43,Medan,Kebutuhan Rumah Tangga,Kartu Kredit,236,1,349616,2.6
+CUST-0357,Pria,47,Surabaya,Fashion & Apparel,COD,41,4,1415015,3.8
+CUST-0358,Wanita,25,Bandung,Makanan & Minuman,Kartu Kredit,11,4,1472346,4.4
+CUST-0359,Pria,21,Bengkulu,Kesehatan & Kecantikan,QRIS,122,4,1980228,2.3
+CUST-0360,Wanita,38,Surabaya,Kebutuhan Rumah Tangga,QRIS,47,8,4059622,4.0
+CUST-0361,Wanita,38,Bandung,Kebutuhan Rumah Tangga,QRIS,21,17,3679418,3.8
+CUST-0362,Wanita,48,Surabaya,Fashion & Apparel,COD,30,13,4803740,4.2
+CUST-0363,Wanita,53,Surabaya,Fashion & Apparel,QRIS,42,6,2808989,3.9
+CUST-0364,Pria,53,Medan,Elektronik,E-Wallet,47,15,5174606,4.6
+CUST-0365,Wanita,57,Bandung,Kesehatan & Kecantikan,QRIS,30,8,3708662,4.0
+CUST-0366,Wanita,45,Bengkulu,Elektronik,Kartu Kredit,36,6,1855267,4.0
+CUST-0367,Wanita,44,Surabaya,Kebutuhan Rumah Tangga,Kartu Kredit,42,4,1499554,4.3
+CUST-0368,Wanita,32,Bandung,Makanan & Minuman,Kartu Kredit,91,5,1297343,1.8
+CUST-0369,Wanita,35,Surabaya,Makanan & Minuman,COD,173,2,355228,2.1
+CUST-0370,Wanita,36,Bengkulu,Fashion & Apparel,Kartu Kredit,93,1,1318199,2.5
+CUST-0371,Pria,47,Bengkulu,Makanan & Minuman,COD,8,25,8545482,4.3
+CUST-0372,Wanita,38,Medan,Makanan & Minuman,COD,102,5,1240049,1.9
+CUST-0373,Wanita,45,Surabaya,Makanan & Minuman,QRIS,7,24,10797606,4.5
+CUST-0374,Wanita,36,Yogyakarta,Kebutuhan Rumah Tangga,E-Wallet,8,34,12892401,5.0
+CUST-0375,Wanita,22,Surabaya,Makanan & Minuman,QRIS,142,4,1022800,2.0
+CUST-0376,Pria,19,Bandung,Makanan & Minuman,QRIS,172,5,1181011,2.0
+CUST-0377,Wanita,19,Surabaya,Makanan & Minuman,COD,46,9,5008960,3.8
+CUST-0378,Wanita,44,Medan,Elektronik,COD,4,20,11172214,4.7
+CUST-0379,Pria,38,Bandung,Kebutuhan Rumah Tangga,Kartu Kredit,12,21,8795302,4.4
+CUST-0380,Wanita,41,Bandung,Fashion & Apparel,Kartu Kredit,52,8,4149947,3.9
+CUST-0381,Wanita,28,Bengkulu,Elektronik,QRIS,15,34,8399885,5.0
+CUST-0382,Pria,29,Jakarta,Kesehatan & Kecantikan,Transfer Bank,15,18,8268734,4.8
+CUST-0383,Pria,23,Surabaya,Kebutuhan Rumah Tangga,Transfer Bank,25,1,1574135,4.0
+CUST-0384,Pria,19,Jakarta,Kebutuhan Rumah Tangga,Kartu Kredit,16,24,8467344,4.2
+CUST-0385,Wanita,35,Bengkulu,Kesehatan & Kecantikan,Transfer Bank,15,28,13484684,4.6
+CUST-0386,Wanita,40,Jakarta,Kesehatan & Kecantikan,Kartu Kredit,209,5,1914523,3.0
+CUST-0387,Wanita,52,Bengkulu,Kesehatan & Kecantikan,COD,16,13,3428988,4.1
+CUST-0388,Wanita,47,Bengkulu,Fashion & Apparel,QRIS,44,12,4658987,3.9
+CUST-0389,Pria,22,Jakarta,Makanan & Minuman,E-Wallet,40,14,6391418,3.9
+CUST-0390,Wanita,23,Yogyakarta,Kebutuhan Rumah Tangga,QRIS,8,18,11543064,4.8
+CUST-0391,Pria,29,Bandung,Makanan & Minuman,Kartu Kredit,112,5,1180491,2.4
+CUST-0392,Pria,39,Bengkulu,Makanan & Minuman,Kartu Kredit,9,21,8111213,4.7
+CUST-0393,Wanita,53,Bengkulu,Kesehatan & Kecantikan,QRIS,10,20,8203662,4.7
+CUST-0394,Wanita,30,Surabaya,Fashion & Apparel,Kartu Kredit,14,18,11827858,4.8
+CUST-0395,Pria,44,Jakarta,Elektronik,Transfer Bank,20,16,5678932,4.0
+CUST-0396,Wanita,37,Medan,Fashion & Apparel,Transfer Bank,17,3,1642647,4.0
+CUST-0397,Pria,25,Surabaya,Makanan & Minuman,Kartu Kredit,19,25,9339433,4.6
+CUST-0398,Wanita,25,Surabaya,Fashion & Apparel,Kartu Kredit,133,4,298874,1.8
+CUST-0399,Wanita,44,Jakarta,Kesehatan & Kecantikan,Transfer Bank,170,2,928250,2.2
+CUST-0400,Pria,23,Surabaya,Elektronik,Kartu Kredit,164,2,866412,2.8
+CUST-0401,Pria,39,Jakarta,Kesehatan & Kecantikan,Kartu Kredit,97,3,1728301,3.2
+CUST-0402,Wanita,32,Yogyakarta,Elektronik,QRIS,35,3,1006079,4.4
+CUST-0403,Pria,22,Bandung,Makanan & Minuman,E-Wallet,46,12,4400283,3.8
+CUST-0404,Wanita,41,Jakarta,Elektronik,Transfer Bank,46,16,4014929,3.8
+CUST-0405,Pria,38,Jakarta,Elektronik,QRIS,131,2,1977757,2.0
+CUST-0406,Pria,33,Bengkulu,Elektronik,E-Wallet,31,16,7422808,4.0
+CUST-0407,Wanita,47,Surabaya,Fashion & Apparel,Kartu Kredit,21,3,2233693,4.2
+CUST-0408,Wanita,26,Bengkulu,Fashion & Apparel,Kartu Kredit,15,12,7184056,3.9
+CUST-0409,Pria,37,Bandung,Makanan & Minuman,QRIS,105,4,973035,2.7
+CUST-0410,Wanita,57,Jakarta,Elektronik,Kartu Kredit,33,16,6737973,3.8
+CUST-0411,Pria,46,Surabaya,Kebutuhan Rumah Tangga,COD,46,9,4170365,3.7
+CUST-0412,Wanita,45,Medan,Makanan & Minuman,QRIS,12,18,13408635,4.9
+CUST-0413,Pria,22,Surabaya,Elektronik,E-Wallet,16,26,9125351,4.7
+CUST-0414,Pria,33,Surabaya,Elektronik,QRIS,37,6,1392964,4.1
+CUST-0415,Pria,53,Bengkulu,Fashion & Apparel,Transfer Bank,34,2,2640794,3.6
+CUST-0416,Wanita,55,Bengkulu,Makanan & Minuman,QRIS,12,6,1714449,3.8
+CUST-0417,Pria,19,Surabaya,Elektronik,Kartu Kredit,42,10,4705215,4.0
+CUST-0418,Pria,21,Jakarta,Elektronik,Kartu Kredit,201,1,1801814,2.5
+CUST-0419,Wanita,42,Jakarta,Makanan & Minuman,COD,11,27,10595900,4.6
+CUST-0420,Wanita,45,Bengkulu,Kebutuhan Rumah Tangga,COD,21,16,4661793,3.9
+CUST-0421,Wanita,54,Jakarta,Makanan & Minuman,COD,38,9,3775435,4.3
+CUST-0422,Pria,52,Bengkulu,Makanan & Minuman,E-Wallet,227,1,1259612,2.9
+CUST-0423,Wanita,47,Medan,Kebutuhan Rumah Tangga,COD,32,14,6947208,3.7
+CUST-0424,Wanita,42,Bengkulu,Makanan & Minuman,E-Wallet,179,3,720452,1.7
+CUST-0425,Pria,42,Bandung,Elektronik,COD,31,1,1356101,4.1
+CUST-0426,Wanita,22,Bengkulu,Makanan & Minuman,E-Wallet,16,17,7418441,4.5
+CUST-0427,Wanita,21,Surabaya,Kebutuhan Rumah Tangga,QRIS,16,9,6376513,4.1
+CUST-0428,Pria,52,Jakarta,Kesehatan & Kecantikan,QRIS,5,28,7576218,4.9
+CUST-0429,Pria,41,Medan,Makanan & Minuman,Kartu Kredit,49,14,5837981,4.2
+CUST-0430,Wanita,41,Medan,Fashion & Apparel,E-Wallet,6,34,14987345,4.4
+CUST-0431,Wanita,23,Jakarta,Elektronik,Transfer Bank,96,1,992406,1.7
+CUST-0432,Pria,49,Yogyakarta,Elektronik,Kartu Kredit,22,8,5938613,4.2
+CUST-0433,Wanita,24,Yogyakarta,Fashion & Apparel,QRIS,11,22,12077456,4.3
+CUST-0434,Wanita,55,Medan,Fashion & Apparel,E-Wallet,39,17,6190541,4.5
+CUST-0435,Wanita,28,Medan,Makanan & Minuman,COD,8,21,11551774,5.0
+CUST-0436,Wanita,25,Bengkulu,Fashion & Apparel,Transfer Bank,31,9,4527937,4.0
+CUST-0437,Pria,57,Bandung,Kesehatan & Kecantikan,QRIS,13,19,13011174,4.3
+CUST-0438,Wanita,56,Bengkulu,Kebutuhan Rumah Tangga,Kartu Kredit,14,25,13594467,4.3
+CUST-0439,Pria,39,Bengkulu,Fashion & Apparel,E-Wallet,117,3,1914221,1.7
+CUST-0440,Pria,38,Yogyakarta,Fashion & Apparel,Transfer Bank,30,8,3616036,4.1
+CUST-0441,Wanita,21,Jakarta,Kesehatan & Kecantikan,E-Wallet,156,5,1432117,1.7
+CUST-0442,Pria,40,Surabaya,Elektronik,COD,15,22,13702258,4.6
+CUST-0443,Pria,22,Medan,Elektronik,Kartu Kredit,190,5,1819123,2.1
+CUST-0444,Wanita,46,Medan,Makanan & Minuman,E-Wallet,110,2,414134,2.5
+CUST-0445,Wanita,30,Yogyakarta,Kesehatan & Kecantikan,QRIS,15,17,6875754,4.2
+CUST-0446,Pria,56,Bengkulu,Kebutuhan Rumah Tangga,Kartu Kredit,32,4,2289616,3.7
+CUST-0447,Pria,54,Bengkulu,Kebutuhan Rumah Tangga,QRIS,31,3,2962616,3.5
+CUST-0448,Pria,23,Jakarta,Kesehatan & Kecantikan,E-Wallet,44,1,2014542,4.2
+CUST-0449,Wanita,31,Bengkulu,Kebutuhan Rumah Tangga,Kartu Kredit,3,22,9422135,4.7
+CUST-0450,Pria,41,Bengkulu,Elektronik,QRIS,22,14,3066150,4.4
+CUST-0451,Wanita,48,Jakarta,Kebutuhan Rumah Tangga,COD,12,32,13663101,4.3
+CUST-0452,Wanita,55,Surabaya,Kebutuhan Rumah Tangga,COD,3,27,14521855,4.4
+CUST-0453,Pria,43,Bandung,Kesehatan & Kecantikan,E-Wallet,202,4,413038,2.1
+CUST-0454,Wanita,45,Jakarta,Kesehatan & Kecantikan,Kartu Kredit,32,12,5439855,4.3
+CUST-0455,Wanita,32,Surabaya,Kebutuhan Rumah Tangga,Transfer Bank,5,22,7847739,5.0
+CUST-0456,Wanita,54,Bengkulu,Fashion & Apparel,Kartu Kredit,52,16,4602575,4.5
+CUST-0457,Wanita,57,Bengkulu,Kesehatan & Kecantikan,COD,32,1,1156951,3.7
+CUST-0458,Wanita,34,Surabaya,Makanan & Minuman,QRIS,19,30,14949607,4.4
+CUST-0459,Pria,40,Bandung,Makanan & Minuman,Transfer Bank,49,12,6896022,3.8
+CUST-0460,Wanita,39,Surabaya,Elektronik,E-Wallet,21,2,2175843,3.5
+CUST-0461,Pria,39,Bengkulu,Kebutuhan Rumah Tangga,Transfer Bank,25,17,3390719,4.5
+CUST-0462,Pria,26,Medan,Fashion & Apparel,E-Wallet,41,11,5245909,4.4
+CUST-0463,Pria,34,Bandung,Elektronik,Transfer Bank,34,2,2050522,4.0
+CUST-0464,Wanita,49,Bandung,Kebutuhan Rumah Tangga,E-Wallet,41,12,7230258,4.1
+CUST-0465,Pria,28,Bandung,Kesehatan & Kecantikan,E-Wallet,12,23,10194946,4.9
+CUST-0466,Wanita,50,Medan,Makanan & Minuman,Transfer Bank,21,6,625991,4.0
+CUST-0467,Pria,52,Bandung,Fashion & Apparel,Transfer Bank,3,18,12950486,5.0
+CUST-0468,Pria,27,Bandung,Makanan & Minuman,E-Wallet,188,2,1466959,2.9
+CUST-0469,Pria,35,Yogyakarta,Kesehatan & Kecantikan,COD,173,5,1477165,2.5
+CUST-0470,Wanita,29,Surabaya,Kebutuhan Rumah Tangga,Transfer Bank,2,27,13124795,4.4
+CUST-0471,Pria,50,Jakarta,Kesehatan & Kecantikan,Kartu Kredit,217,3,1775416,1.6
+CUST-0472,Wanita,28,Surabaya,Kesehatan & Kecantikan,QRIS,54,12,6813270,4.4
+CUST-0473,Pria,40,Jakarta,Makanan & Minuman,E-Wallet,51,10,6138145,4.3
+CUST-0474,Pria,35,Bengkulu,Fashion & Apparel,E-Wallet,47,13,3838003,4.6
+CUST-0475,Wanita,22,Bandung,Kesehatan & Kecantikan,QRIS,12,6,826916,3.3
+CUST-0476,Pria,43,Yogyakarta,Makanan & Minuman,COD,233,1,1552549,2.5
+CUST-0477,Wanita,39,Yogyakarta,Fashion & Apparel,QRIS,32,2,1998771,3.3
+CUST-0478,Wanita,55,Jakarta,Kebutuhan Rumah Tangga,Transfer Bank,50,13,6068893,4.5
+CUST-0479,Wanita,56,Bandung,Kebutuhan Rumah Tangga,QRIS,213,5,1134056,3.2
+CUST-0480,Wanita,19,Bengkulu,Elektronik,E-Wallet,114,1,576032,2.5
+CUST-0481,Pria,43,Yogyakarta,Makanan & Minuman,QRIS,7,26,10864695,4.4
+CUST-0482,Wanita,54,Yogyakarta,Fashion & Apparel,Kartu Kredit,39,6,2866860,3.7
+CUST-0483,Wanita,35,Bandung,Kesehatan & Kecantikan,Transfer Bank,108,5,685423,2.2
+CUST-0484,Pria,42,Medan,Kebutuhan Rumah Tangga,QRIS,55,17,5656807,4.2
+CUST-0485,Pria,20,Surabaya,Fashion & Apparel,E-Wallet,16,29,11995013,4.7
+CUST-0486,Pria,33,Bandung,Makanan & Minuman,Transfer Bank,21,10,7455214,3.6
+CUST-0487,Pria,50,Bengkulu,Elektronik,E-Wallet,34,13,5378837,3.7
+CUST-0488,Pria,57,Jakarta,Kebutuhan Rumah Tangga,COD,3,22,10819260,4.6
+CUST-0489,Wanita,24,Surabaya,Fashion & Apparel,Kartu Kredit,31,1,2924050,3.3
+CUST-0490,Wanita,19,Surabaya,Fashion & Apparel,COD,56,13,3780316,4.0
+CUST-0491,Pria,41,Jakarta,Fashion & Apparel,Kartu Kredit,14,5,2461275,3.2
+CUST-0492,Wanita,57,Yogyakarta,Makanan & Minuman,QRIS,227,1,1374289,2.4
+CUST-0493,Pria,35,Bengkulu,Makanan & Minuman,Transfer Bank,41,4,1399005,3.3
+CUST-0494,Wanita,52,Bandung,Makanan & Minuman,QRIS,200,1,1906671,1.5
+CUST-0495,Wanita,47,Surabaya,Kesehatan & Kecantikan,Kartu Kredit,53,17,7411519,4.3
+CUST-0496,Wanita,27,Surabaya,Fashion & Apparel,Kartu Kredit,10,29,7519816,5.0
+CUST-0497,Pria,31,Bandung,Kebutuhan Rumah Tangga,Kartu Kredit,10,1,1410775,4.3
+CUST-0498,Pria,24,Jakarta,Makanan & Minuman,E-Wallet,7,20,13268927,4.8
+CUST-0499,Pria,24,Bengkulu,Makanan & Minuman,Transfer Bank,34,16,4983851,3.8
+CUST-0500,Wanita,38,Bandung,Fashion & Apparel,QRIS,8,20,12172750,4.4
