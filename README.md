@@ -78,7 +78,7 @@ Ikuti langkah-langkah berikut untuk menjalankan aplikasi dashboard di komputer l
 
 1. **Clone repositori ini ke komputer lokal:**
 
-   git clone [https://github.com/minthy-greenthea/retail-hci-dataviz.git](https://github.com/minthy-greenthea/retail-hci-dataviz.git)
+   git clone https://github.com/minthy-greenthea/Materi-5_retail-hci-dataviz
    cd retail-hci-dataviz
 
 2. **Instal seluruh pustaka Python yang dibutuhkan:**
