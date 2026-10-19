@@ -1,5 +1,8 @@
 # RetailSense: Chronicle of Customer Intelligence & AI Segmentation Dashboard
 
+## Tampilan Antarmuka Dashboard (UI Preview)
+![Preview Dashboard RetailSense](dashboard_preview.jpg)
+
 > **Tugas Studi Kasus & Implementasi Kuliah Umum Praktisi Informatika**  
 > **Program:** _Informatics Practitioner Lecture Series: Connecting Academic Knowledge with Industry and Global Technology_  
 > **Topik Materi:** _Human-Computer Interaction & Data Visualization — "Make Sense of Data with Analytics and AI"_  
@@ -75,7 +78,7 @@ Ikuti langkah-langkah berikut untuk menjalankan aplikasi dashboard di komputer l
 
 1. **Clone repositori ini ke komputer lokal:**
 
-   git clone [https://github.com/USERNAME_ANDA/retail-hci-dataviz.git](https://github.com/USERNAME_ANDA/retail-hci-dataviz.git)
+   git clone [https://github.com/minthy-greenthea/retail-hci-dataviz.git](https://github.com/minthy-greenthea/retail-hci-dataviz.git)
    cd retail-hci-dataviz
 
 2. **Instal seluruh pustaka Python yang dibutuhkan:**
